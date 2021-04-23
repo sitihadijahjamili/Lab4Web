@@ -7,5 +7,7 @@ Langkah pertama yaitu buatlah folder nama lab4web dengan menamakan file baru lab
 Langkah ke Dua yaitu mengaturclearfix Element Div3. kemudian tambahkan lagi elemen div4. setelah itu refresh lihat hasil dan perubahannya pada browser
 ![LAB BOX 2](https://user-images.githubusercontent.com/56400200/115935419-519dc380-a4bd-11eb-8df8-fb7907e14e48.PNG)
 ![LAB BOX 2 (1)](https://user-images.githubusercontent.com/56400200/115935479-74c87300-a4bd-11eb-9815-fec026ca136a.PNG)
-Langkah ke 3 selanjutnya yaitu membuat file baru dengan menamakan home.html, seperti berikut ini. kemudian refresh kembali di browser dan lihat hasil dan perubahannya.
+Langkah ke Tiga selanjutnya yaitu membuat file baru dengan menamakan home.html,dan css style.css seperti berikut ini. kemudian refresh kembali di browser dan lihat hasil dan perubahannya.
 ![LAB BOX 3](https://user-images.githubusercontent.com/56400200/115935785-223b8680-a4be-11eb-9fce-4c892219d367.PNG)
+[LAB BOX 3 (1)](https://user-images.githubusercontent.com/56400200/115935841-426b4580-a4be-11eb-943a-f497d6b89f6f.PNG)
+Langkah ke Empat yaitu tambahkan kode CSS ini ke style.css untuk membuat layoutnya. kemudian refresh di browser dan lihat perubahan dan hasilnya.
