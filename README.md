@@ -17,3 +17,5 @@ Laangkah selanjutnya yaitu langkah ke Lima yaitu mengatur Navigasi seperti berik
 ![LAB BOX 5](https://user-images.githubusercontent.com/56400200/115936403-582d3a80-a4bf-11eb-846d-75352af9723a.PNG)
 ![LAB BOX 5 (1)](https://user-images.githubusercontent.com/56400200/115936457-7dba4400-a4bf-11eb-9462-b219ad487dd9.PNG)
 Langkah ke Enam yaitu Membuat Hero panel seperti berikut ii tambahkan kode HTML dan CSSnya. Lalu lihat kembali di browser dan lihat hasil dan perubahannnya.
+![LAB BOX 6](https://user-images.githubusercontent.com/56400200/115936616-ebff0680-a4bf-11eb-94d6-78d4550a6e1d.PNG)
+
