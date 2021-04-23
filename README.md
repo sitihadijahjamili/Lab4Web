@@ -12,3 +12,5 @@ Langkah ke Tiga selanjutnya yaitu membuat file baru dengan menamakan home.html,d
 [LAB BOX 3 (1)](https://user-images.githubusercontent.com/56400200/115935841-426b4580-a4be-11eb-943a-f497d6b89f6f.PNG)
 Langkah ke Empat yaitu tambahkan kode CSS ini ke style.css untuk membuat layoutnya. kemudian refresh di browser dan lihat perubahan dan hasilnya.
 ![LAB BOX 4](https://user-images.githubusercontent.com/56400200/115936189-d210f400-a4be-11eb-8083-0a586d94e822.PNG)
+![LAB BOX 4 (1)](https://user-images.githubusercontent.com/56400200/115936262-f8369400-a4be-11eb-9cc9-df2c5958a900.PNG)
+Laangkah selanjutnya yaitu langkah ke Lima yaitu mengatur Navigasi seperti berikut ini kemudian refresh kembali lihat hasil dan perubahannya .
