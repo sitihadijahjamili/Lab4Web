@@ -4,5 +4,5 @@ Langkah pertama yaitu buatlah folder nama lab4web dengan menamakan file baru lab
 ![LAB BOX 1 KE 2](https://user-images.githubusercontent.com/56400200/115935080-9ecd6580-a4bc-11eb-88a1-e91b926a2825.PNG)
 ![LAB BOX 1 KE 3](https://user-images.githubusercontent.com/56400200/115935151-c3294200-a4bc-11eb-96d9-66f0d614515f.PNG)
 Langkah ke Dua yaitu mengaturclearfix Element Div3. kemudian tambahkan lagi elemen div4. setelah itu refresh lihat hasil dan perubahannya pada browser
-
+![LAB BOX 2](https://user-images.githubusercontent.com/56400200/115935419-519dc380-a4bd-11eb-8df8-fb7907e14e48.PNG)
 
