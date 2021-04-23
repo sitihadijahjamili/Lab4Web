@@ -14,3 +14,4 @@ Langkah ke Empat yaitu tambahkan kode CSS ini ke style.css untuk membuat layoutn
 ![LAB BOX 4](https://user-images.githubusercontent.com/56400200/115936189-d210f400-a4be-11eb-8083-0a586d94e822.PNG)
 ![LAB BOX 4 (1)](https://user-images.githubusercontent.com/56400200/115936262-f8369400-a4be-11eb-9cc9-df2c5958a900.PNG)
 Laangkah selanjutnya yaitu langkah ke Lima yaitu mengatur Navigasi seperti berikut ini kemudian refresh kembali lihat hasil dan perubahannya .
+![LAB BOX 5](https://user-images.githubusercontent.com/56400200/115936403-582d3a80-a4bf-11eb-846d-75352af9723a.PNG)
