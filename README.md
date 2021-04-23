@@ -8,3 +8,4 @@ Langkah ke Dua yaitu mengaturclearfix Element Div3. kemudian tambahkan lagi elem
 ![LAB BOX 2](https://user-images.githubusercontent.com/56400200/115935419-519dc380-a4bd-11eb-8df8-fb7907e14e48.PNG)
 ![LAB BOX 2 (1)](https://user-images.githubusercontent.com/56400200/115935479-74c87300-a4bd-11eb-9815-fec026ca136a.PNG)
 Langkah ke 3 selanjutnya yaitu membuat file baru dengan menamakan home.html, seperti berikut ini. kemudian refresh kembali di browser dan lihat hasil dan perubahannya.
+![LAB BOX 3](https://user-images.githubusercontent.com/56400200/115935785-223b8680-a4be-11eb-9fce-4c892219d367.PNG)
