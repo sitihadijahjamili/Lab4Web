@@ -20,4 +20,4 @@ Langkah ke Enam yaitu Membuat Hero panel seperti berikut ii tambahkan kode HTML 
 ![LAB BOX 6](https://user-images.githubusercontent.com/56400200/115936616-ebff0680-a4bf-11eb-94d6-78d4550a6e1d.PNG)
 ![LAB BOX 6 (1)](https://user-images.githubusercontent.com/56400200/115936680-1cdf3b80-a4c0-11eb-8181-98c8352e8450.PNG)
 Langkah selanjutnya yaitu langkah ke Tujuh mengatur layout main dan sidebar, membuat sidebar widget menambahkan elemennya dalam sidebar dan selanjutnya tambahan css seperti di lihat seperti berikut ini. Refresh kembali pada brower dan lihat hasil dan perubahannya.
-
+![LAB BOX 7](https://user-images.githubusercontent.com/56400200/115942689-abaa8300-a4d5-11eb-9d8d-4f065cb0f203.PNG)
