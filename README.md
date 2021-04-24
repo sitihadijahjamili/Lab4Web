@@ -13,7 +13,7 @@ Langkah ke Tiga selanjutnya yaitu membuat file baru dengan menamakan home.html,d
 Langkah ke Empat yaitu tambahkan kode CSS ini ke style.css untuk membuat layoutnya. kemudian refresh di browser dan lihat perubahan dan hasilnya.
 ![LAB BOX 4](https://user-images.githubusercontent.com/56400200/115936189-d210f400-a4be-11eb-8083-0a586d94e822.PNG)
 ![LAB BOX 4 (1)](https://user-images.githubusercontent.com/56400200/115936262-f8369400-a4be-11eb-9cc9-df2c5958a900.PNG)
-Laangkah selanjutnya yaitu langkah ke Lima yaitu mengatur Navigasi seperti berikut ini kemudian refresh kembali lihat hasil dan perubahannya .
+Laangkah selanjutnya yaitu langkah ke Lima yaitu mengatur Navigasi seperti berikut ini kemudian refresh kembali lihat hasil dan perubahannya.
 ![LAB BOX 5](https://user-images.githubusercontent.com/56400200/115936403-582d3a80-a4bf-11eb-846d-75352af9723a.PNG)
 ![LAB BOX 5 (1)](https://user-images.githubusercontent.com/56400200/115936457-7dba4400-a4bf-11eb-9462-b219ad487dd9.PNG)
 Langkah ke Enam yaitu Membuat Hero panel seperti berikut ii tambahkan kode HTML dan CSSnya. Lalu lihat kembali di browser dan lihat hasil dan perubahannnya.
@@ -34,3 +34,4 @@ Langkah ke Sembilan yaitu menambahkan elemen lain pada main contenct. dan tambah
 ![LAB BOX 9 (1)](https://user-images.githubusercontent.com/56400200/115943358-a8b19180-a4d9-11eb-8927-d5318f18c6b4.PNG)
 Langkah terakhir 10 yaitu membuat content artikel, dan tambahkan ke HTML, kemudian tambahkan juga di css seperti berikut ini. Refresh kembali dan lihat hasil dan perubahannya.
 ![LAB BOX 10](https://user-images.githubusercontent.com/56400200/115943503-85d3ad00-a4da-11eb-9f98-729dd078098d.PNG)
+![LAB BOX 10 KE 2](https://user-images.githubusercontent.com/56400200/115943543-b0256a80-a4da-11eb-9897-8a3c3c52311a.PNG)
