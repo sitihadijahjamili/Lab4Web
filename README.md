@@ -26,3 +26,4 @@ Langkah selanjutnya yaitu langkah ke Tujuh mengatur layout main dan sidebar, mem
 ![LAB BOX 7 KE 3](https://user-images.githubusercontent.com/56400200/115942854-6dfa2a00-a4d6-11eb-9772-4881436b80df.PNG)
 ![LAB BOX 7 (1)](https://user-images.githubusercontent.com/56400200/115942955-45266480-a4d7-11eb-8ba6-f78116bf5c9a.PNG)
 Langkah ke Delapan yaitu selanjutnya mengatur tampilan footer tambahkan di css. refresh kembali dan lihat hasil dan perubahannya di browser
+![LAB BOX 8](https://user-images.githubusercontent.com/56400200/115943065-fa591c80-a4d7-11eb-8434-1a3e1660b8d5.PNG)
