@@ -33,3 +33,4 @@ Langkah ke Sembilan yaitu menambahkan elemen lain pada main contenct. dan tambah
 ![LAB BOX 9 KE 2](https://user-images.githubusercontent.com/56400200/115943273-25903b80-a4d9-11eb-8665-a3cb07df353f.PNG)
 ![LAB BOX 9 (1)](https://user-images.githubusercontent.com/56400200/115943358-a8b19180-a4d9-11eb-8927-d5318f18c6b4.PNG)
 Langkah terakhir 10 yaitu membuat content artikel, dan tambahkan ke HTML, kemudian tambahkan juga di css seperti berikut ini. Refresh kembali dan lihat hasil dan perubahannya.
+![LAB BOX 10](https://user-images.githubusercontent.com/56400200/115943503-85d3ad00-a4da-11eb-9f98-729dd078098d.PNG)
