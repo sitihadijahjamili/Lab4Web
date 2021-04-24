@@ -23,3 +23,4 @@ Langkah selanjutnya yaitu langkah ke Tujuh mengatur layout main dan sidebar, mem
 ![LAB BOX 7](https://user-images.githubusercontent.com/56400200/115942689-abaa8300-a4d5-11eb-9d8d-4f065cb0f203.PNG)
 ![LAB BOX 7 KE 2](https://user-images.githubusercontent.com/56400200/115942769-004dfe00-a4d6-11eb-84b4-b1772c46da97.PNG)
 ![LAB BOX 7 KE 2](https://user-images.githubusercontent.com/56400200/115942769-004dfe00-a4d6-11eb-84b4-b1772c46da97.PNG)
+![LAB BOX 7 KE 3](https://user-images.githubusercontent.com/56400200/115942854-6dfa2a00-a4d6-11eb-9772-4881436b80df.PNG)
