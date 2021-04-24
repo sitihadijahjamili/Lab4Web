@@ -35,3 +35,4 @@ Langkah ke Sembilan yaitu menambahkan elemen lain pada main contenct. dan tambah
 Langkah terakhir 10 yaitu membuat content artikel, dan tambahkan ke HTML, kemudian tambahkan juga di css seperti berikut ini. Refresh kembali dan lihat hasil dan perubahannya.
 ![LAB BOX 10](https://user-images.githubusercontent.com/56400200/115943503-85d3ad00-a4da-11eb-9f98-729dd078098d.PNG)
 ![LAB BOX 10 KE 2](https://user-images.githubusercontent.com/56400200/115943543-b0256a80-a4da-11eb-9897-8a3c3c52311a.PNG)
+![LAB BOX 10 (1)](https://user-images.githubusercontent.com/56400200/115943578-e6fb8080-a4da-11eb-9767-7574ff1d863c.PNG)
