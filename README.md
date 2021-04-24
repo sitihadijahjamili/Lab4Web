@@ -29,3 +29,4 @@ Langkah ke Delapan yaitu selanjutnya mengatur tampilan footer tambahkan di css. 
 ![LAB BOX 8](https://user-images.githubusercontent.com/56400200/115943065-fa591c80-a4d7-11eb-8434-1a3e1660b8d5.PNG)
 ![LAB BOX 8 (1)](https://user-images.githubusercontent.com/56400200/115943102-3e4c2180-a4d8-11eb-9cc0-6f3ef54daafc.PNG)
 Langkah ke Sembilan yaitu menambahkan elemen lain pada main contenct. dan tambahkan juga di dalam cssnya seperti di bawah ini. Kemudian refresh di browser lihat hasil dan perubahannya.
+![LAB BOX 9](https://user-images.githubusercontent.com/56400200/115943243-f1b51600-a4d8-11eb-9ac1-7c0e677405cf.PNG)
